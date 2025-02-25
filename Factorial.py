@@ -4,3 +4,4 @@ for i in range(1,n+1):
     fact=fact*1;
 print("The Factorail of ",n,"=",fact);
 print("This is new feature");
+print("this is 2nd feature");
